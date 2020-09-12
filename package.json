@@ -6,11 +6,19 @@
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite" : "lite-server"
+    "lite": "lite-server"
   },
   "author": "nischalj10",
   "license": "MIT",
   "devDependencies": {
     "lite-server": "^2.5.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nischalj10/init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nischalj10/init/issues"
+  },
+  "homepage": "https://github.com/Nischalj10/init#readme"
 }
